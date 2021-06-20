@@ -1,0 +1,10 @@
+/.idea/.gitignore
+/.idea/avant-garde-algos.iml
+/ring-buffer-datastructire/build.gradle
+/ring-buffer-datastructire/.gradle/*
+/ring-buffer-datastructire/.gradle/buildOutputCleanup/outputFiles.bin
+/.idea/*
+
+/ring-buffer-datastructire/gradle/wrapper/gradle-wrapper.jar
+/ring-buffer-datastructure/.gradle/*
+/ring-buffer-datastructure/gradle/wrapper/gradle-wrapper.jar
